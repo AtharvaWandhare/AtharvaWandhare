@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 About Me
-- 🧑‍🎓 **3rd Year Computer Science Student** at DIEMS (Deogiri Institute of Engineering and Management Studies)
+- 🧑‍🎓 **Final Year Computer Science Student** at DIEMS (Deogiri Institute of Engineering and Management Studies)
 - 🌱 Currently working on projects and always eager to learn new technologies  
 - 🔧 Passionate about building scalable backend systems and full-stack applications
 
@@ -35,15 +35,15 @@
 ---
 
 ## 🚧 Currently Learning
-- MERN stack for building a service platform for tradespeople 👨‍🔧
-- Advanced **MongoDB** concepts and data modeling
+- Shopify for building a e-commerce platforms for clients 👨‍🔧
+- Advanced **UI/UX** concepts and workflow automation.
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🧺 **Laundry Website**  
-  A responsive website for laundry booking and tracking, built with HTML, CSS, JS, PHP & MySQL.
+- 🧺 **Collabify**  
+  A real-time collaboration docs collaboration platform built using Next.js, Clerk, Convex and Liveblocks.
 
 - 🛠️ **TradeConnect**  
   A platform connecting tradespeople and customers using modern full-stack technologies.
