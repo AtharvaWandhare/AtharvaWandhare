@@ -40,20 +40,30 @@
 
 ---
 
+## 🌟 Experience
+
+- 🧺 **E-commerce Developer Freelancer - Dislapharm**  
+  My job involves full-stack e-commerce development, from building a custom backend API for our 3PL partner to customizing the Shopify theme's frontend. I am also responsible for implementing the new affiliate system and our KPI tracking dashboard.
+
+- 🛠️ **[CraftMyFolio - Dynamic Portfolio Builder]([https://github.com/AtharvaWandhare/collabify](https://github.com/SagarSuryakantWaghmare/craftmyfolio/tree/Atharva))**  
+  A component-based, no code portfolio builder allowing users to create portfolios from pre-built templates or a blank canvas.
+
+---
+
 ## 🌟 Featured Projects
 
-- 🧺 **Collabify**  
-  A real-time collaboration docs collaboration platform built using Next.js, Clerk, Convex and Liveblocks.
+- 🧺 **[Collabify - Reat Time Collaboration Platform](https://github.com/AtharvaWandhare/collabify)**  
+  A real-time collaborative editor using Liveblocks for low-latency multi-user syncing and Convex server functions for authoritative data persistence.
 
-- 🛠️ **TradeConnect**  
-  A platform connecting tradespeople and customers using modern full-stack technologies.
+- 🛠️ **[CraftMyFolio - Dynamic Portfolio Builder]([https://github.com/AtharvaWandhare/collabify](https://github.com/SagarSuryakantWaghmare/craftmyfolio/tree/Atharva))**  
+  A component-based, no code portfolio builder allowing users to create portfolios from pre-built templates or a blank canvas.
 
 ---
 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/atharva-wandhare)  
-- 📬 **Email:** atharvawandhare@gmail.com  
+- 📬 **Email:** [atharvawandhare@gmail.com](atharvawandhare@gmail.com)  
 
 ---
 
