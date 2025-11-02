@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Atharva Wandhare</h1>
-<h3 align="center">Backend Developer | JavaScript Enthusiast | 3rd Year CSE @ DIEMS</h3>
+<h3 align="center">Full Stack Developer | Shopify Developer | JavaScript Enthusiast</h3>
 
 ---
 
 ## 🎓 About Me
-- 🧑‍🎓 **Final Year Computer Science Student** at DIEMS (Deogiri Institute of Engineering and Management Studies)
-- 🌱 Currently working on projects and always eager to learn new technologies  
-- 🔧 Passionate about building scalable backend systems and full-stack applications
+- 🧑‍🎓 **Final Year Computer Science Student**
+- 🌱 Currently working with a US-based startup as a E-Commerce Developer.
+- 🔧 Passionate about building scalable backend systems and full-stack applications.
 
 ---
 
@@ -32,22 +32,11 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/> -->
 
----
-
-## 🚧 Currently Learning
-- Shopify for building a e-commerce platforms for clients 👨‍🔧
-- Advanced **UI/UX** concepts and workflow automation.
-
----
-
 ## 🌟 Experience
 
-- 🧺 **E-commerce Developer Freelancer - Dislapharm**  
+- 🧺 **E-commerce Developer - Dislapharm**  
   My job involves full-stack e-commerce development, from building a custom backend API for our 3PL partner to customizing the Shopify theme's frontend. I am also responsible for implementing the new affiliate system and our KPI tracking dashboard.
-
-- 🛠️ **[CraftMyFolio - Dynamic Portfolio Builder]([https://github.com/AtharvaWandhare/collabify](https://github.com/SagarSuryakantWaghmare/craftmyfolio/tree/Atharva))**  
-  A component-based, no code portfolio builder allowing users to create portfolios from pre-built templates or a blank canvas.
-
+  
 ---
 
 ## 🌟 Featured Projects
