@@ -44,7 +44,7 @@
 - 🧺 **[Collabify - Reat Time Collaboration Platform](https://github.com/AtharvaWandhare/collabify)**  
   A real-time collaborative editor using Liveblocks for low-latency multi-user syncing and Convex server functions for authoritative data persistence.
 
-- 🛠️ **[CraftMyFolio - Dynamic Portfolio Builder]([https://github.com/AtharvaWandhare/collabify](https://github.com/SagarSuryakantWaghmare/craftmyfolio/tree/Atharva)**  
+- 🛠️ **[CraftMyFolio - Dynamic Portfolio Builder](https://github.com/SagarSuryakantWaghmare/craftmyfolio/tree/Atharva)**  
   A component-based, no code portfolio builder allowing users to create portfolios from pre-built templates or a blank canvas.
 
 ---
